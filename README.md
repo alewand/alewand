@@ -1,7 +1,7 @@
 # 👋🏻 Hi there! Welcome to my GitHub Profile!
 
 ## 👨🏻‍💼 About me
-I am a second year computer science student at Warsaw University of Technology who is willing to become a professional software developer in the future.
+I am an ambitious second year computer science student at Warsaw University of Technology who is willing to become a professional software developer in the future.
 
 Currently I am focusing on getting my first job to gain some practical experience which is very important in IT industry and I just want to learn new stuff while working on real-life projects.
 
