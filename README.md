@@ -47,7 +47,7 @@ My responsibilities:
 **Technologies**: Java, Gradle, Spigot API, Ebean ORM
 
 Spigot/Paper plugin for Minecraft game server which adds ELO rating system for PvP players, allows them to track their deaths and kills ammounts.
-Suppors MySQL, PostgreSQL and SQLite.
+Supports MySQL, PostgreSQL and SQLite.
 
 I am planning to make it more configurable and add more features like compatibility with others plugin on the market (for example WorldGuard), posibility to manage this data by an admin and whatever will come to my mind.
 
