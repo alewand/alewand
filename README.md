@@ -20,6 +20,7 @@ My main intrest is **web development**, however I am also passionate about **art
 - ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/EXPRESS.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![Discord.js](https://img.shields.io/badge/DISCORD.JS-5865F2?style=for-the-badge&logo=discord.js&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
