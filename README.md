@@ -3,7 +3,7 @@
 ## 👨🏻‍💼 About me
 I am an ambitious second year computer science student at Warsaw University of Technology who is willing to become a professional software developer in the future.
 
-Currently I am focusing on getting my first job to gain some practical experience which is very important in IT industry and I just want to learn new stuff while working on real-life projects.
+Currently I am focusing on expanding my knowladge and abilities in programming in various languages and getting my first job to gain some practical experience which is very important in IT industry. I also want to learn new stuff while working on real-life projects.
 
 My main intrest is **web development**, however I am also passionate about **artificial intelligence**. 
 
