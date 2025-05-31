@@ -15,6 +15,8 @@ My main intrest is **web development**, however I am also passionate about **art
 ## 🖥️ My TechStack
 - ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- ![Hibernate](https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 - ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,10 +26,19 @@ My main intrest is **web development**, however I am also passionate about **art
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Gradle](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+- ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 🗂️ Projects (Portfolio)
 
 Below you can find projects I am currently working on or have worked on in the past, either individually or as part of a team (from newest to oldest).
+
+### [SimpleNotes](https://github.com/alewand/simple-notes)
+**Individual Project**
+
+**Technologies**: TypeScript, React, Axios, Tailwind CSS, Java, Spring Boot, Hibernate ORM
+
+Web application for creating and managing text notes of users.
 
 ### [Cling Clang](https://github.com/maciejb7/BD2_25L_Z04) (work in progress)
 **Team Project** for university subject BD2 (Bazy Danych 2)
